@@ -4,6 +4,7 @@
 
 
 <script>
+require('dotenv').config();
 
 import AppHeader from "./components/Header"
 export default {
